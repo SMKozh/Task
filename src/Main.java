@@ -53,10 +53,8 @@ public class Main {
                         break;
                     }
                 }
-                items.add(inputItem);
-            } else {
-                items.add(inputItem);
             }
+            items.add(inputItem);
         }
         return output;
     }
